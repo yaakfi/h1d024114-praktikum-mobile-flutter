@@ -1,6 +1,6 @@
-# Praktikum Pemrograman Mobile - Pertemuan 2 Flutter
+# Praktikum Pemrograman Mobile - Pertemuan 3 Flutter
 
-Tugas praktikum pemrograman mobile pertemuan 2 (Modul 2) mengenai pengenalan framework Flutter dan pembuatan widget dasar (Hello World, Column, Row, Form & Detail Produk, serta List Data Produk).
+Tugas praktikum pemrograman mobile pertemuan 3 (Modul 3) mengenai Routes, Side Menu, Login, dan Local Storage menggunakan framework Flutter.
 
 ---
 
